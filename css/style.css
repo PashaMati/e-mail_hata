@@ -34,7 +34,7 @@ table {
     text-align: right;
 }
 .main-info {
-    padding: 12px 30px;
+    padding: 12px 30px 36px;
 }
 .company {
     font-size: 24px;
@@ -64,4 +64,35 @@ table {
 }
 .advantage {
     background-color: #ededf5;
+}
+.advantage td {
+    text-align: center;
+    padding: 36px 18px;
+}
+.advantage p {
+    
+    margin: 0px;
+}
+.advantage .star {
+    padding-left: 36px;
+}
+.advantage .tree {
+    padding-right: 36px;
+}
+.black-text {
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+    font-family: "Arial";
+    padding: 26px 0px 6px;
+}
+.gray-text {
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+    font-family: "Arial";
+}
+.houses {
+    background-color: #ffffff;
 }
